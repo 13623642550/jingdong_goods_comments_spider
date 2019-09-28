@@ -1,0 +1,2 @@
+# jingdong_goods_comments_spider
+爬取京东某款显示器商品信息的评价
